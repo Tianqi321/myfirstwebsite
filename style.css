@@ -1,0 +1,49 @@
+
+body {
+    background: #eeece7;
+}
+
+h1 {
+    font: 52px/1 'Montez';
+    color: #a4834d;
+}
+p{
+    font: 20px/1 'Montez';
+}
+
+#page-wrap {
+    width: 960px;
+    margin: 30px auto;
+    padding: 3em;
+    background: #fff;
+    -webkit-border-radius: 20px;
+    -khtml-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 20px;    
+}
+/* ///////////////////////////////////////// 
+    =#navigation
+///////////////////////////////////////// */    
+#navigation { 
+    padding: 3px;
+}
+#navigation li {
+    float: left;
+    border-right: 1px solid #eee;
+    list-style-type:none;
+    margin:0px auto;
+    }
+    #navigation li:last-child {
+        border: 0;
+        }
+        #navigation li a {
+            
+            
+            border: 0;
+            padding: 10px;
+            font: 18px/1 Verdana;
+            color: #a49e96;
+        }
+
+
+
